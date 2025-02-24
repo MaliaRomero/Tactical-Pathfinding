@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Fundamentals.unity
+    guid: 84d9eb11f4763514a8d26c5ca306c810
+  - enabled: 0
+    path: Assets/Scenes/Dijkstra.unity
+    guid: 260a0895e01772a4da9c606fe4460526
+  - enabled: 1
+    path: Assets/Scenes/TacticalPathfinding.unity
+    guid: 00dc2bd2ecf8f844ab2287dc902e9222
+  m_configObjects: {}
